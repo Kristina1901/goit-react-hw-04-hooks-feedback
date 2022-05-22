@@ -1,0 +1,30 @@
+.item {
+    list-style-type: none;
+    font-size: 26px;
+    font-weight: 700;
+   
+}
+.header {
+    color: white;
+    font-weight: 700;
+}
+.number {
+    margin-left: 10px;
+    color: azure;
+}
+.item:first-child {
+   color:#76b852;
+   
+}
+.item:nth-child(2) {
+    color: #363795;
+}
+.item:nth-child(3) {
+ color: #fd1d1d;
+}
+.item:nth-child(4) {
+ color: #6441a5;
+}
+.item:nth-child(5) {
+    color: #ffb347;
+}

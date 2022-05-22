@@ -1,0 +1,28 @@
+.button {
+    background: linear-gradient(to left, #5614b0, #dbd65c);
+    margin-right: 20px;
+    padding: 10px;
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    color:azure;
+    font-weight: 700;
+    border: #333399;
+    margin-bottom: 20px;
+    font-size: 14px;
+    margin-top: 20px;
+    
+    
+}
+.button:last-child {
+    margin-right: 0px;
+}
+.button:first-letter {
+    text-transform: uppercase;
+}
+.button:hover {
+    background: linear-gradient(to left, #16bffd, #cb3066);
+}
+.button:focus {
+    background: linear-gradient(to left, #16bffd, #cb3066);
+}
